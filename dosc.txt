@@ -1,0 +1,8 @@
+pour faire une mise :
+
+[
+	{
+     "propName": "name",
+     "value": "Mouton de decembre"
+     }
+]
